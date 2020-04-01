@@ -27,7 +27,7 @@ We are generate a graphic to print growth brasilian population informations.
 
 ### Case study - Bio Cience - Comparing Genomes
 
-<img src="datacience/files/images/dna_image.svg"/>
+<img src="data-science/files/images/dna_image.svg"/>
 
 In this case study, we do a comparision between both of dna sequences: **(1) human vs (2) bacteria** 
 
