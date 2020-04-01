@@ -3,7 +3,7 @@ import matplotlib.pyplot as pyplot
 
 x_assis = []
 y_assis = []
-data = open("files/data/growth_brasilian_population_historic.csv").readlines()
+data = open("files/data_source/growth_brasilian_population_historic.csv").readlines()
 
 for i in range(len(data)):
 	if i > 0:

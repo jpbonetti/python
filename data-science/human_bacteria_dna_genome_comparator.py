@@ -1,5 +1,5 @@
-human_data = open("files/data/human_genome.fasta").read()
-bacteria_data = open("files/data/bacteria_genome.fasta").read()
+human_data = open("files/data_source/human_genome.fasta").read()
+bacteria_data = open("files/data_source/bacteria_genome.fasta").read()
 final_file = open("dna_genome_compared.html", "w")
 
 nucleo_bases_dna = ["A", "T", "C", "G"]
