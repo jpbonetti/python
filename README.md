@@ -1,9 +1,9 @@
-##Summary
+## Summary
 
 1. [Introduction](#introduction)
 2. [Projects](#projects)
-2.1 [Growth of the brasilian population](#growth-of-the-brasilian-population)
-2.2 [DNA Genome Comparator](#dna-genome-comparator)
+1 [Growth of the brasilian population](#growth-of-the-brasilian-population)
+2 [DNA Genome Comparator](#dna-genome-comparator)
 
 ## Introduction 
 
