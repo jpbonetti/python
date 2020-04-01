@@ -2,8 +2,8 @@
 
 1. [Introduction](#introduction)
 2. [Projects](#projects)
-1 [Growth of the brasilian population](#growth-of-the-brasilian-population)
-2 [DNA Genome Comparator](#dna-genome-comparator)
+   1. [Growth of the brasilian population](#growth-of-the-brasilian-population)
+   2. [DNA Genome Comparator](#dna-genome-comparator)
 
 ## Introduction 
 
@@ -27,7 +27,7 @@ We are generate a graphic to print growth brasilian population informations.
 
 ### Case study - Bio Cience - Comparing Genomes
 
-<img src="files/images/dna_image.svg"/>
+<img src="datacience/files/images/dna_image.svg"/>
 
 In this case study, we do a comparision between both of dna sequences: **(1) human vs (2) bacteria** 
 
